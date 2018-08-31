@@ -2,7 +2,7 @@ Prove, you are the one.</br>
 
 challenge running at :
 
-[ch004](www.indrarahul.xyz/test.html)
+[ch004](https://www.indrarahul.xyz/test.html)
 
 hint - HTML
 
